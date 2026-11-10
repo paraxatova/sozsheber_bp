@@ -1,0 +1,4 @@
+Flask
+gunicorn
+flask-cors
+gunicorn==21.2.0
