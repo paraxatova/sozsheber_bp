@@ -1,5 +1,4 @@
 Flask
-gunicorn
 flask-cors
 supabase
 gunicorn==21.2.0
